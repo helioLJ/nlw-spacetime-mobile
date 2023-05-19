@@ -1,6 +1,6 @@
 import {
   ScrollView,
-   View,
+  View,
   Switch,
   TouchableOpacity,
   Text,
